@@ -12,12 +12,12 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
-    "svelte": "^3.46.0",
-    "vite": "^2.9.13"
+    "svelte": "^3.46.0"
   },
   "type": "module",
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.0",
-    "cookie": "^0.4.1"
+    "cookie": "^0.4.1",
+    "vite": "^2.9.13"
   }
 }
