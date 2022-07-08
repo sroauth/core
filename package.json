@@ -19,5 +19,9 @@
     "@fontsource/fira-mono": "^4.5.0",
     "cookie": "^0.4.1",
     "vite": "^2.9.13"
+  },
+  "engines": {
+    "npm": ">=8.5.0",
+    "node": ">=16.0.0"
   }
 }
