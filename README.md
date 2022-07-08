@@ -1,0 +1,2 @@
+# core
+Decentralized password manager
